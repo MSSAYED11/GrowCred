@@ -24,4 +24,5 @@ I have almost completed the CSS code, but I accidentally deleted the project fil
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/growcred.git
+git clone https://github.com/MSSAYED11/GrowCred.git
+
