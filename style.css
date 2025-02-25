@@ -1,0 +1,55 @@
+:root {
+  --primary-color: #2c6777;
+  --secondary-color: #52ab99;
+  --background-color: #c8d8e5;
+  --text-color: #000000;
+  --button-text-color: #ffffff;
+}
+
+
+p {
+  text-transform: capitalize;
+  white-space: pre-line;
+  font-family: "Nunito", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Manrope", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 64px;
+}
+h2 {
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 64px;
+}
+h5 {
+  font-size: 32px;
+  font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+#Crop{
+
+width: 375px;
+height: 106px;
+font-family: "Poppins", serif;
+font-weight: 600;
+font-style: normal;
+border-radius: 50px;
+font-size: 40px;
+background-color: #52ab99;
+color: #ffffff;
+border: 1px solid #ffffff;
+text-align: center;
+}
+#Crop:hover{
+  background-color:#2c6777;
+  cursor: pointer;
+}
